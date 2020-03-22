@@ -11,7 +11,7 @@ class App extends Component {
     dogs: [
       {
         name: "Whiskey",
-        age: 5,
+        age: 1,
         src: whiskey,
         facts: [
           "Whiskey loves eating popcorn.",
@@ -21,7 +21,7 @@ class App extends Component {
       },
       {
         name: "Hazel",
-        age: 3,
+        age: 2,
         src: hazel,
         facts: [
           "Hazel has soooo much energy!",
@@ -31,7 +31,7 @@ class App extends Component {
       },
       {
         name: "Tubby",
-        age: 4,
+        age: 2,
         src: tubby,
         facts: [
           "Tubby is not the brightest dog.",
