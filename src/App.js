@@ -15,7 +15,7 @@ class App extends Component {
         src: whiskey,
         facts: [
           "Whiskey loves eating popcorn.",
-          "Whickey is a terrible guard dog.",
+          "Whiskey is a terrible guard dog.",
           "Whiskey wants to cuddle with you!"
         ]
       },
@@ -34,7 +34,7 @@ class App extends Component {
         age: 2,
         src: tubby,
         facts: [
-          "Tubby is not the brightest dog.",
+          "Tubby is FULL of personality.",
           "Tubby does not like walks or exercise.",
           "Tubby loves eating treats!"
         ]
